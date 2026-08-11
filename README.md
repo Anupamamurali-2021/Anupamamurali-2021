@@ -64,9 +64,7 @@ My work included:
 
 A responsive portfolio website built using Next.js, React, TypeScript, and Tailwind CSS.
 
-**Status:** In progress
-
-More personal projects will be added soon.
+🌐 **Portfolio:** [View My Portfolio](https://portfolio-liard-six-39.vercel.app)
 
 ## 🏆 Achievements and Certifications
 
