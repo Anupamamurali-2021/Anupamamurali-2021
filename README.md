@@ -66,6 +66,16 @@ A responsive portfolio website built using Next.js, React, TypeScript, and Tailw
 
 🌐 **Portfolio:** [View My Portfolio](https://portfolio-liard-six-39.vercel.app)
 
+### 🚗 Car Rental System
+Web-based car rental management system with user registration, vehicle search, booking, and reservation management.
+
+**Tech:** PHP, HTML, CSS, JavaScript, MySQL
+
+### 💉 Vaccina8 – Infant Vaccination Booking System
+Web application for managing infant profiles, vaccination history, appointment scheduling, and reminders.
+
+**Tech:** Python, Django, HTML, CSS, SQLite
+
 ## 🏆 Achievements and Certifications
 
 - NPTEL Elite Certificate in Database Management System — IIT Kharagpur
