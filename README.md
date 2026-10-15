@@ -64,7 +64,7 @@ My work included:
 
 A responsive portfolio website built using Next.js, React, TypeScript, and Tailwind CSS.
 
-🌐 **Portfolio:** [View My Portfolio](https://portfolio-liard-six-39.vercel.app)
+🌐 **Portfolio:** [View My Portfolio](https://anupamamurali-2021.github.io/portfolio/)
 
 ### 🚗 Car Rental System
 Web-based car rental management system with user registration, vehicle search, booking, and reservation management.
